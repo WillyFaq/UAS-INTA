@@ -1,19 +1,16 @@
-# Text Prepocessing
+# UAS INTA
 
 ## Getting Started
-Ini adalah Aplikasi Text preprocessing, untuk mining text dari source : Twiiter, Selular.id. untuk tahapan semantic analisis smartphone.
+Aplikasi Sentimen analisis review smartphone, kalsifikasi topik yang mengambil data dari twitter
 
 ## features : 
-- Tokenizing
-- Case Folding
-- Hapus Tanda Baca
-- Hapus Emoticon
-- Hapus Kata Tanya
-- Stopword Removed
-- Stemming
+- Text Preprocessing
+- Sentimen Analisis Review Smartphone
+- Kalsifikasi Topik
 
 ## library
 library yang digunakan : 
 - Stopword Removed -> [Sastrawi](https://github.com/sastrawi/sastrawi)
 - Stemming -> [Sastrawi](https://github.com/sastrawi/sastrawi)
+- Naive Bayes -> [biobii/naive-bayes-text-classifier](https://github.com/biobii/naive-bayes-text-classifier)
 
